@@ -1,0 +1,6 @@
+{
+  "name": "智能无人健身房通行服务系统",
+  "description": "无人健身房全流程产品闭环：按次与按时长套餐订购、人脸录入绑定、使用中A/B互锁门禁核验与通行控制、订单全生命周期管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
